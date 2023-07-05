@@ -1,3 +1,5 @@
+package Einkaufen;
+
 import java.util.Scanner;
 
 public class Einkaufen {
