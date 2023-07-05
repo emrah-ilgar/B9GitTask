@@ -1,3 +1,5 @@
+package ErrorHandling;
+
 import java.util.Scanner;
 
 public class ErrorHandlingPractice {
