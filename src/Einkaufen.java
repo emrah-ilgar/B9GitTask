@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Einkaufen {
-    public static void main(String[] args) {
+    public void einkaufen(){
         String []einKaufList=new String[5];
         Scanner scanner=new Scanner(System.in);
         System.out.println("Bitte schreiben dass,was möchten Sie kaufen");
@@ -16,7 +16,10 @@ public class Einkaufen {
             System.out.println(i+1+"."+einKaufList[i]);
         }
 
-
-
     }
+
+
+
+
+
 }
